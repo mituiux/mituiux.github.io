@@ -19,6 +19,8 @@ Welcome to Intro to UI/UX Design! This 2-week IAP course will serve as an introd
 - Office Hours Location: [PUT HERE]
 - Prerequisites: None.
 
+Lecture recordings and slides will be made available after each class, but lecture attendance is still required / heavily recommended as they will include assignment descriptions, hands-on exercises, group feedback, etc.
+
 ## Instructors
 
 - Rachel Onwu [ronwu] - please direct questions to **ronwu [at] mit [dot] edu**!

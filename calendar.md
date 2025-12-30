@@ -6,7 +6,7 @@ nav_order: 3
 
 # Calendar
 
-Links to each lecture's recording and slides will be made public after each lecture.
+Links to each lecture's recording and slides will be made available after each lecture.
 
 ### Monday 1/5 - Course Intro - What is UI/UX?
 
