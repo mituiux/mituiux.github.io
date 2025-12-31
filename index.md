@@ -14,9 +14,9 @@ Welcome to Intro to UI/UX Design! This 2-week IAP course will serve as an introd
 - Term: IAP 2026
 - Units: 3
 - Class Times: M-F 1/5-1/16 2-4PM
-- Class Location: [PUT HERE]
+- Class Location: 56-114
 - Office Hours Times: Sunday 1/11 4-7PM, and upon request before/after class.
-- Office Hours Location: [PUT HERE]
+- Office Hours Location: 36-112
 - Prerequisites: None.
 
 Lecture recordings and slides will be made available after each class, but lecture attendance is still required / heavily recommended as they will include assignment descriptions, hands-on exercises, group feedback, etc.
