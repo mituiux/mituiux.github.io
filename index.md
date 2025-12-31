@@ -46,7 +46,7 @@ Topics covered will include:
 
 ## Grading
 
-Students will be given credit and assigned grades based on their class participation throughout the course and their final presentations for their case study
+This class will be graded P/F. Students will be given credit based on their class participation (must attend 8/10 classes) and based on their final presentation for their case study.
 
 <!-- This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
