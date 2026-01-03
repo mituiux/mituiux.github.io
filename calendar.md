@@ -6,8 +6,9 @@ nav_order: 3
 
 # Calendar
 
-Links to each lecture's recording and slides will be made available after each lecture.
+The live calendar is available [here](https://docs.google.com/document/d/1Qv0qwXSZtdveR7r-U-5NDiHuu08vLkp5OXLoqQc6vhc/edit?usp=sharing). Links to each lecture's recording and slides will be updated after each lecture.
 
+<!--
 ### Monday 1/5 - Course Intro - What is UI/UX?
 
 - Class Leads: All
@@ -67,4 +68,4 @@ Links to each lecture's recording and slides will be made available after each l
 
 - Class Leads: All
 - Lecture recording: link
-- Lecture slides: link
+- Lecture slides: link -->
