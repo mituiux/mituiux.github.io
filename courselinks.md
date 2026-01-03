@@ -10,9 +10,9 @@ Note: please visit the [calendar](https://mituiux.github.io/calendar) page to ac
 
 ## General Quicklinks
 
-**Class 1 survey:** [pending]
-**Class 1 FigJam:** [pending]
-**Class 1 Business Card Figma file:** [pending]
+- **Class 1 survey:** [pending]
+- **Class 1 FigJam:** [pending]
+- **Class 1 Business Card Figma file:** [pending]
 
 ## Signing up for a Figma for Education account
 
