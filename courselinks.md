@@ -6,7 +6,7 @@ nav_order: 2
 
 # Course Links
 
-Note: please visit the [calendar](https://mituiux.github.io/calendar) page to access lecture-specific recordings, slides, and assignments. This page contains general links and resources related to the course.
+Note: please visit the [live course calendar](https://docs.google.com/document/d/1Qv0qwXSZtdveR7r-U-5NDiHuu08vLkp5OXLoqQc6vhc/edit?usp=sharing) to access lecture-specific recordings, slides, and assignments. This page contains general quicklinks and resources related to the course.
 
 ## General Quicklinks
 
