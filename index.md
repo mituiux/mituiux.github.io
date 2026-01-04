@@ -10,7 +10,7 @@ Welcome to Intro to UI/UX Design! This 2-week IAP course will serve as an introd
 
 ## Course Details
 
-- Course number: 6.S098 
+- Course number: 6.S089
 - Term: IAP 2026
 - Units: 3
 - Class Times: M-F 1/5-1/16 2-4PM
